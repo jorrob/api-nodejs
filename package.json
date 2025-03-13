@@ -1,0 +1,23 @@
+{
+  "name": "api-basic",
+  "version": "1.0.0",
+  "description": "api basico con node",
+  "main": "app.js",
+  "scripts": {
+    "test": "no funciona el API"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorrob/api-nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Jorge Robalino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorrob/api-nodejs/issues"
+  },
+  "homepage": "https://github.com/jorrob/api-nodejs#readme"
+}
